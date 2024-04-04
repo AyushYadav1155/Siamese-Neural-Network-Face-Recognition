@@ -47,6 +47,10 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 Special thanks to the creator of the YouTube video for providing valuable insights and guidance on implementing the Siamese Neural Network model for face recognition.
 
+## Future Scope
+
+I am a Computer Engineering student currectly exploring various domains for interest. Originally my aim was to make my own face recognition model and convert it to a tflite model and use it a mobile application I've created previously (Can be seen available on my GitHub repo).
+
 ### Issues faced and solution
 
 Following are couple of issues that I personally faced while making this project and solutions to avoid them.
